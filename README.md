@@ -2,6 +2,8 @@
 
 Bring Sifflet data observability into Cursor. This plugin connects agents to Sifflet through the official MCP server and adds guidance for writing [Monitors as Code](https://docs.siffletdata.com/docs/monitors-as-code).
 
+This plugin is provided as-is and is not an officially supported Sifflet product.
+
 ## What You Get
 
 - **Sifflet MCP** for catalog, monitor, incident, and lineage discovery from Agent chat.
